@@ -73,3 +73,12 @@ footer {
   outline:none;
   margin:0px 10px;
   }
+
+.down-cv{
+  background-color:#0b0b0b;
+  color:#FFFFFF;
+  border:none;
+}
+button:active{
+  transform.scale(1.1);
+}
