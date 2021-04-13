@@ -62,3 +62,13 @@ footer {
   font-weight:bold;
   color:#2d2a2a
 }
+.text-conatiner button{
+  width:130px;
+  height:42px;
+  border-radius10px;
+  font-family:calibri;
+  font-weight:bold;
+  font-size:14px;
+  outline:none;
+  margin:0px 10px;
+  }
