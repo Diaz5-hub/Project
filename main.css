@@ -99,3 +99,9 @@ button:active{
   margin:-7% auto 20px auto;
   position:relative;
 }
+.about-container img{
+  height:250px;
+}
+.about-text{  
+    width:550px;
+}
