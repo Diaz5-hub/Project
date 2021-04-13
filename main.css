@@ -15,6 +15,7 @@ section{
   background-image:url("me.jpg.heic");
   background-repeat:no-repeat;
   background-size:cover;
+  position:relative;
 }
 nav{
   float:right;
