@@ -138,3 +138,26 @@ button:active{
   font-size:14px;
   font-weight:bold;
  }
+footer{
+  height:300px;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+footer p{
+  font-family:calibri;
+}
+.social-icons a{
+  width:40px;
+  height:40px;
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  background-color:#e6e3e3;
+  margin: 20px 10px;
+  border-radius:50%;
+}
+.social-icons{
+  display:flex;  
+}
