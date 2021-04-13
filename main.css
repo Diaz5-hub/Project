@@ -37,6 +37,23 @@ nav ul li a{
   font-size:15px;
   font-weight:700;
 }
+section,
+aside,
+footer {
+  margin: 0 1.5% 24px 1.5%;
+}
+section {
+  float: left;
+  width: 63%;
+}
+aside {
+  float: right;
+  width: 30%;
+}
+footer {
+  clear: both;
+  margin-bottom: 0;
+}
 .logo{
   font-family: RoadTest:
     color:#000000;
