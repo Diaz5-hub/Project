@@ -105,3 +105,12 @@ button:active{
 .about-text{  
     width:550px;
 }
+.about-text button{
+  width:120px;
+  height:40px;
+  color:#FFFFFF;
+  outline:none;
+  border:none;
+  font-family:calibri;
+  background-color:#262525;
+}
