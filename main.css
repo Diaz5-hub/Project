@@ -114,3 +114,27 @@ button:active{
   font-family:calibri;
   background-color:#262525;
 }
+.contact-me{
+  width:100%;
+  height:280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  }
+.contact-me p{
+  color:#FFFFF;
+  font-size:30px;
+  font-family:calibri;
+  font-weight:bold;
+  border-bottom:2px solid #FFFFFF;
+ }
+.contact-me button{
+  width:200px;
+  height:40px;
+  background-color:#FFFFFF;
+  outline:none;
+  border:none;
+  font-size:14px;
+  font-weight:bold;
+ }
